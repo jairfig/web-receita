@@ -1,2 +1,3 @@
-# web-receita
-Repositório Inicial para Prática
+# Páginas para Receitas
+
+Adicionar a descrição aqui!
